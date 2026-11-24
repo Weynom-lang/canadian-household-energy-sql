@@ -6,6 +6,8 @@ The project uses official Statistics Canada household-energy data and demonstrat
 
 ---
 
+📄 **[View the full case-study PDF](docs/case_study.pdf)**
+
 ## Quick Navigation
 
 [Key Findings](#key-findings) · [Notebook](notebooks/household_energy_analysis.ipynb) · [SQL Analysis](sql/analysis/) · [Data Source](#data-source-and-scope) · [Reproducing the Project](#reproducing-the-project)
