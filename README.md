@@ -6,6 +6,11 @@ The project uses official Statistics Canada household-energy data and demonstrat
 
 ---
 
+## Quick Navigation
+
+[Key Findings](#key-findings) · [Notebook](notebooks/household_energy_analysis.ipynb) · [SQL Analysis](sql/analysis/) · [Data Source](#data-source-and-scope) · [Reproducing the Project](#reproducing-the-project)
+
+---
 ## Project Objective
 
 The objective of this project was to build a reproducible analytical workflow using real-world energy data while developing and demonstrating practical skills relevant to energy and data analyst roles.
@@ -32,9 +37,9 @@ This project was developed primarily as a **portfolio and skills-development ana
 
 As of **November 2026**, the latest reference year available in the Statistics Canada household-energy tables selected for this project is **2021**:
 
-- **Table 25-10-0060-01** — Household energy consumption, Canada and provinces
-- **Table 25-10-0061-01** — Household energy consumption, by type of dwelling
-- **Table 25-10-0062-01** — Household energy consumption, by household income
+- **[Table 25-10-0060-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001)** — Household energy consumption, Canada and provinces
+- **[Table 25-10-0061-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006101)** — Household energy consumption, by type of dwelling
+- **[Table 25-10-0062-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006201)** — Household energy consumption, by household income
 
 The 2021 observations were released by Statistics Canada in 2024. The use of 2021 as the endpoint therefore reflects the availability of comparable observations in the selected source tables rather than an arbitrary decision to exclude newer data.
 
